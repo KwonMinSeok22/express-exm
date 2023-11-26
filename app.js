@@ -2,8 +2,7 @@ const express = require('express')
 const path = require('path') 
 // path 안적음 '오답'
 const app = express()
-const port = 80 
-
+const port = 3000
 // app.METHOD(express,path,ejs) 오답
 
 /**
